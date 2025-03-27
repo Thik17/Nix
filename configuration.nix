@@ -106,6 +106,9 @@
   environment.systemPackages = with pkgs; [
     ani-cli
     ripgrep
+    stow
+    lazygit
+    yazi
     neovim
     git
     kitty
