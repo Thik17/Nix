@@ -112,8 +112,8 @@
     neovim
     git
     kitty
-    python
-    npm
+    python3
+    nodejs
     wget
     curl
     chromium
@@ -127,6 +127,7 @@
     htop
     nitch
     hyprlock
+    manim
     tmux
     waybar
     rofi-wayland
