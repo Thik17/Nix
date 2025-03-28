@@ -127,6 +127,7 @@
     tmux
     waybar
     rofi-wayland
+    eza
     fzf
     zoxide
     zig
