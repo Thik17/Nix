@@ -112,6 +112,8 @@
     neovim
     git
     kitty
+    python
+    npm
     wget
     curl
     chromium
