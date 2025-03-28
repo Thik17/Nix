@@ -130,7 +130,7 @@
     eza
     fzf
     zoxide
-    zig
+    zig_0_14
     gcc
     bun
   ];
