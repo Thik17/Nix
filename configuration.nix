@@ -117,6 +117,7 @@
     chromium
     zsh
     dunst
+    cmatrix
     hyprpaper
     nautilus
     pywal16
